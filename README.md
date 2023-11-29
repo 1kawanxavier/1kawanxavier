@@ -20,7 +20,12 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kawan-Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white">
+  <img align="center" alt="Kawan-Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
+  <img align="center" alt="Kawan-Segurança Cibernética" src="https://img.shields.io/badge/CyberDefenders-335EEA.svg?style=for-the-badge&logo=CyberDefenders&logoColor=white">
+  <img align="center" alt="Kawan-MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img align="center" alt="Kawan-MongoDB" src=" https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
   
+
 </div>
 
   
